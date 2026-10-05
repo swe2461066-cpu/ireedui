@@ -1,0 +1,46 @@
+export const translations = {
+  mn: {
+    nav: {
+      overview: "Тойм",
+      search: "Хайлт",
+      calculation: "Тооцоолуур",
+      books: "Ном",
+      contact: "Холбоо барих",
+      language: "EN",
+      brandSpan: "Монголын",
+      brand: "хүнсний найрлагын мэдээллийн сан",
+    },
+    overview: { title: "Тойм", welcome: "Тойм хуудсанд тавтай морил." },
+    search: { title: "Хайлт", welcome: "Хайлт хуудсанд тавтай морил." },
+    calculation: { title: "Тооцоолуур", welcome: "Тооцоолуур хуудсанд тавтай морил." },
+    books: { title: "Ном", welcome: "Ном хуудсанд тавтай морил." },
+    contact: { title: "Холбоо барих", welcome: "Холбоо барих хуудсанд тавтай морил." },
+    notFound: {
+      title: "Хуудас олдсонгүй",
+      welcome: "Таны хайсан хуудас олдсонгүй.",
+      back: "Нүүр хуудас руу буцах",
+    },
+  },
+  en: {
+    nav: {
+      overview: "Overview",
+      search: "Search",
+      calculation: "Food Calculator",
+      books: "Books",
+      contact: "Contact us",
+      language: "MN",
+      brandSpan: "Mongolian",
+      brand: "Food Composition Database",
+    },
+    overview: { title: "Overview", welcome: "Welcome to the overview page." },
+    search: { title: "Search", welcome: "Welcome to the Search page." },
+    calculation: { title: "Food Calculator", welcome: "Welcome to the Food Calculator page." },
+    books: { title: "Books", welcome: "Welcome to the Books page." },
+    contact: { title: "Contact us", welcome: "Welcome to the Contact page." },
+    notFound: {
+      title: "Page not found",
+      welcome: "The page you are looking for does not exist.",
+      back: "Back to home",
+    },
+  },
+};
